@@ -10,8 +10,8 @@ It's posible to see live example of the icons [here](http://rawgit.com/mapbender
 
 ### Composer
 
-Add requirement to [composer](https://getcomposer.org/).
-Config "component-dir" is the path where font files would be copied.
+Add requirement to [composer](https://getcomposer.org/).<br/>
+Configure "component-dir"  the path where font files should be copied.
 ```javascript
 {
   "require": {

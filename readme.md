@@ -3,6 +3,9 @@
 Icon set is created and generated with [iconmon](https://icomoon.io/). web app.<br/>
 Used at least by [mapbender](http://mapbender3.org/) GIS project.
 
+## Preview
+It's posible to see live example of the icons [here](http://rawgit.com/eSlider/mapbender-icons/master/demo.html)
+
 ## Integration 
 
 ### Composer

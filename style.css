@@ -1,16 +1,16 @@
 @font-face {
-	font-family: 'mapbenderer-icons';
-	src:url('fonts/mapbenderer-icons.eot?skg553');
-	src:url('fonts/mapbenderer-icons.eot?#iefixskg553') format('embedded-opentype'),
-		url('fonts/mapbenderer-icons.woff?skg553') format('woff'),
-		url('fonts/mapbenderer-icons.ttf?skg553') format('truetype'),
-		url('fonts/mapbenderer-icons.svg?skg553#mapbenderer-icons') format('svg');
+	font-family: 'mapbender-icons';
+	src:url('fonts/mapbender-icons.eot?mljbq8');
+	src:url('fonts/mapbender-icons.eot?#iefixmljbq8') format('embedded-opentype'),
+		url('fonts/mapbender-icons.woff?mljbq8') format('woff'),
+		url('fonts/mapbender-icons.ttf?mljbq8') format('truetype'),
+		url('fonts/mapbender-icons.svg?mljbq8#mapbender-icons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 [class^="icon-"], [class*=" icon-"] {
-	font-family: 'mapbenderer-icons';
+	font-family: 'mapbender-icons';
 	speak: none;
 	font-style: normal;
 	font-weight: normal;

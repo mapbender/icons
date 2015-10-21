@@ -1,6 +1,6 @@
-# Mapbebder3 icon library
+# Mapbender3 icon library
 
-Icon set is created and generated with [IcoMoon](https://icomoon.io/). web app.<br/>
+Icon set is created and generated with [IcoMoon](https://icomoon.io/) web app.<br/>
 Used at least by [mapbender](http://mapbender3.org/) GIS project.
 
 ## Preview

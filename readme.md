@@ -1,7 +1,8 @@
 # Mapbender3 icon library
 
-Icon set is created and generated with [IcoMoon](https://icomoon.io/) web app.<br/>
-Used at least by [mapbender](http://mapbender3.org/) GIS project.
+The Mapbender3 - IconSet was created and produced with the [IcoMoon](https://icomoon.io/) web app.<br/>
+These icons are used by many GIS projects, such as [mapbender](http://mapbender3.org/).
+By vector icons the resolution of the display on each platform is adapted to the circumstances of the screen.<br/>
 
 ## Preview
 It's posible to see live example of the icons [here](http://rawgit.com/mapbender/icons/master/demo.html)
@@ -10,8 +11,8 @@ It's posible to see live example of the icons [here](http://rawgit.com/mapbender
 
 ### Composer
 
-Add requirement to [composer](https://getcomposer.org/).<br/>
-Configure "component-dir"  the path where font files should be copied.
+Add the requirement parameter to the [composer](https://getcomposer.org/) configuration.<br/>
+Configure the path where font files should be copied in the "component-dir" parameter.
 ```javascript
 {
   "require": {
@@ -23,7 +24,7 @@ Configure "component-dir"  the path where font files should be copied.
 }
 ```
 
-Update and install requirements.
+Update and install the requirements.
 
 ```sh
 composer update 
@@ -32,13 +33,13 @@ composer update
 
 ## Change font
 
-To get change the icons use [IcoMoon](https://icomoon.io/).
+To change the icons to use the [IcoMoon](https://icomoon.io/app/#/select) site.
 
-* Click on import files
-* Select and load [selection.json](selection.json) project file.
-* Edit icons
-* Click "Generate-Font" on bottom panel
-* Download "zip" and extract it into this GIT project folder
+* Click on Import Icons on the toolbar
+* Select and load the [selection.json](selection.json) project file.
+* Edit the existing mapbender-icons "Selection" 
+* Click "Generate Font" on the bottom panel
+* Click "Download" on the bottom panel to extract the ZIP into this GIT project folder
 * Commit, Push/Pull-request
 
 

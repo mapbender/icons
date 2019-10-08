@@ -8,7 +8,7 @@
     "assets"
   ],
   "homepage": "http://mapbender3.org/",
-  "license": "Open Source Geospatial Foundation",
+  "license": "MIT",
   "authors": [
     {
       "name": "Andriy Oblivantsev",

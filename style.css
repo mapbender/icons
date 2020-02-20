@@ -10,8 +10,6 @@
 }
 
 [class^="icon-"], [class*=" icon-"] {
-  /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'mapbender-icons' !important;
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -26,97 +24,129 @@
 
 .icon-address:before {
   content: "\e907";
+  font-family: 'mapbender-icons';
 }
 .icon-compass:before {
   content: "\e908";
+  font-family: 'mapbender-icons';
 }
 .icon-tram:before {
   content: "\e900";
+  font-family: 'mapbender-icons';
 }
 .icon-directions_bus:before {
   content: "\e901";
+  font-family: 'mapbender-icons';
 }
 .icon-train:before {
   content: "\e902";
+  font-family: 'mapbender-icons';
 }
 .icon-directions_walk:before {
   content: "\e903";
+  font-family: 'mapbender-icons';
 }
 .icon-directions_bike:before {
   content: "\e904";
+  font-family: 'mapbender-icons';
 }
 .icon-exchange:before {
   content: "\e905";
+  font-family: 'mapbender-icons';
 }
 .icon-automobile:before {
   content: "\e906";
+  font-family: 'mapbender-icons';
 }
 .icon-remove-selected:before {
   content: "\e615";
+  font-family: 'mapbender-icons';
 }
 .icon-select-feature:before {
   content: "\e614";
+  font-family: 'mapbender-icons';
 }
 .icon-draw-point:before {
   content: "\e60f";
+  font-family: 'mapbender-icons';
 }
 .icon-modify-feature:before {
   content: "\e610";
+  font-family: 'mapbender-icons';
 }
 .icon-draw-line:before {
   content: "\e60c";
+  font-family: 'mapbender-icons';
 }
 .icon-draw-rectangle:before {
   content: "\e60d";
+  font-family: 'mapbender-icons';
 }
 .icon-draw-ellipse:before {
   content: "\e611";
+  font-family: 'mapbender-icons';
 }
 .icon-draw-circle:before {
   content: "\e60e";
+  font-family: 'mapbender-icons';
 }
 .icon-move-feature:before {
   content: "\e613";
+  font-family: 'mapbender-icons';
 }
 .icon-polyline:before {
   content: "\e60b";
+  font-family: 'mapbender-icons';
 }
 .icon-draw-donut:before {
   content: "\e612";
+  font-family: 'mapbender-icons';
 }
 .icon-select:before {
   content: "\e60a";
+  font-family: 'mapbender-icons';
 }
 .icon-remove:before {
   content: "\e606";
+  font-family: 'mapbender-icons';
 }
 .icon-edit:before {
   content: "\e609";
+  font-family: 'mapbender-icons';
 }
 .icon-layer-tree:before {
   content: "\e607";
+  font-family: 'mapbender-icons';
 }
 .icon-feature-info:before {
   content: "\e608";
+  font-family: 'mapbender-icons';
 }
 .icon-area-ruler:before {
   content: "\e600";
+  font-family: 'mapbender-icons';
 }
 .icon-polygon:before {
   content: "\e601";
+  font-family: 'mapbender-icons';
 }
 .icon-draw-polygon:before {
   content: "\e601";
+  font-family: 'mapbender-icons';
 }
 .icon-line-ruler:before {
   content: "\e602";
+  font-family: 'mapbender-icons';
 }
 .icon-image-export:before {
   content: "\e603";
+  font-family: 'mapbender-icons';
 }
 .icon-legend:before {
   content: "\e604";
+  font-family: 'mapbender-icons';
 }
 .icon-about:before {
   content: "\e605";
+  font-family: 'mapbender-icons';
 }

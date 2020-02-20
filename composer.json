@@ -1,13 +1,8 @@
 {
   "name": "mapbender/mapbender-icons",
   "type": "component",
-  "description": "Mapbender3 icons",
-  "keywords": [
-    "mapbender3",
-    "icons",
-    "assets"
-  ],
-  "homepage": "http://mapbender3.org/",
+  "description": "Mapbender icons",
+  "homepage": "http://mapbender.org/",
   "license": "MIT",
   "authors": [
     {

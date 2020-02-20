@@ -20,10 +20,8 @@
   },
   "extra": {
     "component": {
-      "styles": [
-        "style.css"
-      ],
       "files": [
+        "style.css",
         "fonts/*"
       ]
     }

@@ -9,6 +9,11 @@
   font-style: normal;
 }
 
+/**
+ * @todo: remove wildcard catchall-rules; apply explicitly to supplied icons
+ * Special snowflakes Digitizer and mapbender/search still rely on presence of these rules with only partially self-defined
+ * extra icons. These should be reimplemented as plain font awesome markup.
+ */
 [class^="icon-"], [class*=" icon-"] {
   speak: none;
   font-style: normal;
